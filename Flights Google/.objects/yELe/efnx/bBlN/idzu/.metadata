@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Done",
+  "Type": "Element",
+  "Id": "idzuvwLodECXZsxk-zLhHg",
+  "Reference": "tHGZgvZnjkSEJavMT0lI3Q/idzuvwLodECXZsxk-zLhHg",
+  "ParentRef": "tHGZgvZnjkSEJavMT0lI3Q/bBlNgA5QkUWZSaVUfK-t7A",
+  "Created": "2025-09-01T08:39:02.8393975Z",
+  "Updated": "2025-09-01T08:39:02.8393975Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

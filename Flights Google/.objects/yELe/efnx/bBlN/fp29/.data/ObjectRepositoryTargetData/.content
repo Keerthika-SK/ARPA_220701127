@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yduYnn-ez0eoGtjcdxq_NQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="a67ac8b8-4f0c-4661-8c96-1bb6ed37e0e0" CvTextArea="439, 769, 78, 20" CvTextArgument="One way" CvType="Text" DesignTimeRectangle="359, 742, 203, 70" ElementType="ListItem" FullSelectorArgument="&lt;webctrl idx='2' tag='LI' /&gt;" Guid="0e3aa77e-b73a-4b54-8008-5375ab088aa3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a67ac8b8-4f0c-4661-8c96-1bb6ed37e0e0" CvTextArea="439, 769, 78, 20" CvTextArgument="One way" CvType="Text" DesignTimeRectangle="439, 768, 78, 20" ElementType="Text" Guid="0873818b-db09-4d57-b928-f6247711154d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="99d6a35c8641db22e8848c6c64a5b060.png" xmlns="">0XIzb3e7BD0aVNY_ZN8CJGQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

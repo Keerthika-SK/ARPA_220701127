@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pktonb1QBUW8jCMi8qld3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="ab579bda-6c69-41ff-8ce6-41c2b8d00631" CvElementArea="1096, 322, 464, 71" CvType="InputBox" DesignTimeRectangle="1155, 323, 385, 68" ElementType="InputBox" FullSelectorArgument="&lt;webctrl aria-label='Departure' idx='2' tag='INPUT' /&gt;" Guid="e2c0a5a2-2f3e-4460-b385-750ca59a3ebe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ab579bda-6c69-41ff-8ce6-41c2b8d00631" CvElementArea="1096, 322, 464, 71" CvType="InputBox" DesignTimeRectangle="1119, 343, 22, 25" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;svg&amp;gt;path' idx='3' parentid='ow20' tag='path' /&gt;" Guid="b8f86928-dd15-410c-850b-9794a4efef6b" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f3f43b5fddfbe6e894d7d630077c60a8.png" xmlns="">0Wvd4bgN8ZE2Re5XSqAcw9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

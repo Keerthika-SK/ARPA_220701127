@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yZR-ATmt4U6i286IFVcETg" Reference="tHGZgvZnjkSEJavMT0lI3Q/lU3wa3fF-E6XCMUlLnnWEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="879, 624, 60, 60" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='button' idx='{0}' parentid='ow20' tag='DIV' /&gt;&quot;, intDate)]" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' parentid='ow20' tag='DIV' class='p1BRgf KQqAEc' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='11&amp;#xA;₹4,390' /&gt;" Guid="5a41e6a8-73f7-41a7-9cbb-6187c3fc8523" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="9014455a-f1e2-4735-9f76-d438b5361cd9" CvTextArea="784, 466, 128, 26" CvTextArgument="September" CvType="Text" DesignTimeRectangle="639, 443, 420, 70" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='September' parentid='ow20' tag='DIV' type='' class='BgYkof B5dqIf qZwLKe' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='September' /&gt;" Guid="a969719b-cd03-4575-b335-ad0821c918ab" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7980fd37fad78ec103bd1601e1d5aa3a.png" xmlns="">0A_e8IObnmU2QqPHAtJgQ7Q</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="intDate">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>0</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

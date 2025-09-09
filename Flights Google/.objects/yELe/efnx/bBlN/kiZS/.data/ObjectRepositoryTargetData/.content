@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oYwkNDixk0mhHNZf0ma2EA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="b0595b13-a4f1-4b35-85b2-60e1e4baf76b" CvTextArea="837, 629, 22, 16" CvTextArgument="10" CvType="Text" DesignTimeRectangle="839, 624, 20, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Wednesday, September 10, 2025' tag='DIV' type='' class='eoY5cb CylAxb sLG56c yCya5' aaname='10' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='10' /&gt;" Guid="ddea93a3-25ce-4af2-928c-78f6c1541bf4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b0595b13-a4f1-4b35-85b2-60e1e4baf76b" CvTextArea="784, 466, 128, 26" CvTextArgument="September" CvType="Text" DesignTimeRectangle="639, 443, 420, 70" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='September' parentid='ow20' tag='DIV' type='' class='BgYkof B5dqIf qZwLKe' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='September' /&gt;" Guid="8b981c7c-9301-4711-9ab8-f1b76de73c3d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aedf4205676b729a3b6ee4cb3cbbdc19.png" xmlns="">0TBtkVvPNckaeBATOYzP6Bg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

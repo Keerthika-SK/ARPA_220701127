@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AKoKC2ElEEGBJ_R08GizEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="99e42d1f-bf70-4b8a-857e-fef5c8280d19" CvElementArea="1452, 970, 110, 43" CvTextArea="1484, 981, 46, 17" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1486, 978, 44, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Done' parentid='ow20' tag='SPAN' type='' class='VfPpkd-vQzf8d' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Done' /&gt;" Guid="e659d106-c847-43b9-b5ac-9e238ad00baa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="99e42d1f-bf70-4b8a-857e-fef5c8280d19" CvElementArea="1452, 970, 110, 43" CvTextArea="1484, 981, 46, 17" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1456, 970, 104, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Done. Search for one-way flights, departing on September 12, 2025' tag='BUTTON' type='' class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 z18xM rtW97 Q74FEc dAwNDc' aaname='Done' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Done' /&gt;" Guid="988df41c-a850-4509-8ed7-675989d50cac" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="84c3d7a414a37374c7e1119046278a1f.png" xmlns="">0nmUtjY6d202SspB_vpDD2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

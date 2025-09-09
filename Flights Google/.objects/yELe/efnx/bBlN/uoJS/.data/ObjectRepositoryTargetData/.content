@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Yh3LCPWPZEK4ODeXUkMb-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="3363e318-bcc9-43e8-beee-f3d3fd63dbda" CvElementArea="496, 627, 25, 25" CvType="ArrowButton" DesignTimeRectangle="496, 627, 25, 25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' idx='6' tag='SPAN' /&gt;" Guid="032c5e45-17d1-4550-9d5d-971dc21fb763" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3363e318-bcc9-43e8-beee-f3d3fd63dbda" CvElementArea="367, 627, 30, 27" CvType="Icon" DesignTimeRectangle="369, 627, 25, 25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' idx='3' tag='SPAN' /&gt;" Guid="2b15da38-6699-490e-b6bf-6a933a6e3a08" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGESURBVEhL7ZVvSwJBEIf9yFGopaWWFRVElMgRBldaFkXRq8KMiKDPUFHenaX0TyFfpujEb7GjG29PuU4j8IF5c7O7zw27O+ujP8DHPwyCobSv/H9pq9Wi07Nz+qjVeMqCp9Jc/oJG/CGKzS1SpVrlaRNPpY1Gg9aS60IcjS/Q23uFDxF4KgWf9TqtJBQhDkdn6fnllQ+RS7e2dymhpFzF8mpSSBGhSJyeSmXL2lLp9PySOfG3sX94bFlbKr28uhYn0U2o6awp3MxkqdlsWtaWSt1SKpVpIjIjhJBzIehJiomabvDPHdw/FCgQjjkKQVcpJm6oGRobn6Kb2zuetoD8aHBSjJcJgaP0W4g/RwWopBuaUXQUAqn0pxB7hL3yClsphGp6xzyB2B9+QnsN3AKOrXTv4KjjrrkN3HeOrdQoPlKwfQoR6DC86/Qa6GwcWymAOBCKCil6KXqqV0iloKAbphivB14RL3CUgoKmk78tPsnledoVXaUAFSspdXCV9oOhtK98AVxGTMbP0IbJAAAAAElFTkSuQmCC" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c4992131daeac2119224a32b61ace0db.png" xmlns="">05PLqBYJ_EEafDeqXMfwpMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
